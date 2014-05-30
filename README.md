@@ -7,7 +7,7 @@ This Script is using module Graph available in CPAN developed by Jarkko Hietanie
 
 http://search.cpan.org/dist/Graph/lib/Graph.pod
  
-For the GO enrichment analysis this script is using Go:TermFinder Perl module available in CPAN developed for Gavin Sherlock, Elizabeth Boyle and Ihab Awad.  
+For the GO enrichment analysis this script is using Go:TermFinder Perl module available in CPAN developed for Gavin Sherlock, Elizabeth Boyle and Ihab Awad.
 
 http://search.cpan.org/dist/GO-TermFinder/lib/GO/TermFinder.pm
 
