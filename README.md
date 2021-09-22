@@ -1,8 +1,9 @@
 Network-Analysis
 ================
 
-Here I am including useful scripts for biological networks analysis
+Here some useful scripts for biological networks analysis are available
 
+#Script for enrichment neighbourhood analysis:
 This Script is using module Graph available in CPAN developed by Jarkko Hietaniem
 
 http://search.cpan.org/dist/Graph/lib/Graph.pod
