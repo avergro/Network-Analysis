@@ -1,6 +1,6 @@
 Network-Analysis
 ================
-Here some useful scripts for biological networks analysis are available
+Here some useful scripts for biological networks analysis are available.
 
 Gene Ontology enrichment analysis
 ==================================
