@@ -22,3 +22,11 @@ Random edge remotion
 =====================
 #The script let the random remotion of links without replacement. So you have to provide the amount of rows (edges) to remove and the input network to process(pairwise format).
 
+Preparing_networks_for_comparison
+=================================
+#The script let prepare networks for Alluvial comparion by Mapping Change Mapping change Rosvall & Bergstrom, Plos One (2010). Holmgren, Edler, and RosvallAppl. Netw. Sci. 8, 42 (2023)
+
+
+
+
+
